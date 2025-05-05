@@ -1,6 +1,11 @@
 public class ContaBanco {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
-        System.out.println("Mais uma linha!");
+        // TODO: Conhecer e importar a classe scanner
+
+        // TODO: Exibir as mensagens para nosso usuário
+        // TODO: Obter pela Scanner os valores digitados no terminal
+        // TODO: Exibir a mensagem Conta Criada
+        // TODO:
+
     }
 }
