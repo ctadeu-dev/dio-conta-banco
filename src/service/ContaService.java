@@ -18,11 +18,11 @@ public class ContaService {
             System.out.println("Digite o nome do cliente: ");
             conta.getCliente().setNomeCliente(myObjScner.nextLine());
 
-            System.out.println("Digite o código da agência: ");
-            conta.getAgencia().setNumeroAgencia(myObjScner.nextInt());
-
             System.out.println("Digite o tipo de conta: ");
             conta.setTipoConta(myObjScner.nextLine());
+
+            System.out.println("Digite o código da agência: ");
+            conta.getAgencia().setNumeroAgencia(myObjScner.nextInt());
 
             numCliente++;
             conta.getCliente().setCodigoCliente(numCliente);
