@@ -4,7 +4,7 @@
      <span> Projeto Open Source DIO - Trilha Java Básico - Criação Conta Bancária</span>
 </h1>
 
-## Objetivo Profissional:
+## Objetivo do projeto:
 -	Conhecer e importar a classe Scanner do Java
 -	Exibir as mensagens para nosso usuário se orientar na entrada de dados
 -	Obter as informações básicas para criação da conta
